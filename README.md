@@ -4,9 +4,9 @@ This script calculates the motion of a pendulum which anchor point is moving in 
 2) The velocity has an armonic behavior.
 
 By executing it, you'll 4 plots for each case. The plots show the evolution in time of:
-1) The angle \theta, the pendullum angle.
-2) Angular velocity, defined as \dot{\theta}.
-3) (Potential, Kinetic and Yotal) energy.
+1) The angle $\theta$, the pendullum angle.
+2) Angular velocity, defined as $\dot{\theta}$.
+3) (Potential, Kinetic and Total) energy.
 4) The motion of the pendulum in the xy-plane.
 
  ![image](https://github.com/user-attachments/assets/117a627e-06be-4a5e-98d5-d0dfb1884042)
