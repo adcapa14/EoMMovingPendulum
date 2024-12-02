@@ -3,7 +3,7 @@ This script calculates the motion of a pendulum which anchor point is moving in 
 1) The velocity has a linear behavior.
 2) The velocity has an armonic behavior.
 
-By executing it, you'll 4 plots for each case. The plots show the evolution in time of:
+By executing it, you'll have 4 plots for each case. The plots show the evolution in time of:
 1) The angle $\theta$, the pendullum angle.
 2) Angular velocity, defined as $\dot{\theta}$.
 3) (Potential, Kinetic and Total) energy.
